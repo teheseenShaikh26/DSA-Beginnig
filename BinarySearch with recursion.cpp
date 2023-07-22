@@ -64,6 +64,9 @@ void print(int array[], int start, int end)
     cout<<endl;
 }
 
+
+
+
 bool binarySearch(int array[],int start, int end, int k)
 {
     print(array,start,end);
